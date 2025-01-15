@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-#assign a possible directory
+#assign a possible directory to the "directory variable."
 directory="~/Documents"
 
 if [ -d directory ]; then
