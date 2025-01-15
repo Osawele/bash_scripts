@@ -1,8 +1,8 @@
 # bash_scripts
 A list of tutorial bash scripts.
 
-check out these websites for more info:
-https://linuxconfig.org/bash-scripting-tutorial
+check out these websites for more info:     
+https://linuxconfig.org/bash-scripting-tutorial     
 https://devhints.io/bash
 
 
